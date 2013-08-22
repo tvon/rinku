@@ -40,7 +40,7 @@ inside `pre` blocks by default.
 NOTE: If the input text is HTML, it's expected to be already escaped.
 Rinku will perform no escaping.
 
-NOTE: Currently the follow protocols are considered safe and are the
+NOTE: Currently the following protocols are considered safe and are the
 only ones that will be autolinked.
 
     http:// https:// ftp:// mailto://
